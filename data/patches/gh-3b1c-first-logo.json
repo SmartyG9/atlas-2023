@@ -1,0 +1,60 @@
+{
+	"id": 2530,
+	"name": "FIRST Logo",
+	"description": "FIRST is a global community of elementary through high school students dedicated to Robotics and STEM Education through mentor-based programs. Every year, students are given a challenge and must design robots to compete in the challenge given. It is split into 3 age groups, FIRST Robotics Competition (FRC), FIRST Tech Challenge (FTC), and FIRST Lego League (FLL).\n \nGracious Professionalism is a core FIRST philosophy that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.",
+	"links": {
+		"website": [
+			"https://www.firstinspires.org/"
+		],
+		"subreddit": [
+			"frc",
+			"FTC",
+			"FLL"
+		],
+		"discord": [
+			"frc"
+		]
+	},
+	"path": {
+		"192-258": [
+			[
+				-1176,
+				86
+			],
+			[
+				-1114,
+				86
+			],
+			[
+				-1114,
+				112
+			],
+			[
+				-1104,
+				112
+			],
+			[
+				-1105,
+				163
+			],
+			[
+				-1129,
+				163
+			],
+			[
+				-1129,
+				155
+			],
+			[
+				-1176,
+				155
+			]
+		]
+	},
+	"center": {
+		"192-258": [
+			-1144,
+			123
+		]
+	}
+}
